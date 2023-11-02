@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7deb8b47-30c8-4f3a-9a04-284901e72178" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/lib/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/lib/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/lib/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/lib/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/lib/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/lib/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/lib/vendor/composer" />
+      <path value="$PROJECT_DIR$/lib/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/lib/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/lib/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/lib/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/lib/vendor/mercadopago/dx-php" />
+    </include_path>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2XdXjHCtsnBhEbnFWzgqxVIH3FD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/FAMILIA/Desktop/Painel-SSH-Aberto&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="QodanaHighlightedReportService">
+    <option name="localRunNotPublishedPersistedInfo">
+      <LocalReportPersistedInfo>
+        <option name="path" value="C:\Users\FAMILIA\AppData\Local\Temp\qodana_output1\qodana.sarif.json" />
+        <option name="reportGuid" value="9a3c3669-95f6-41c6-b9a1-092212c2ab3d" />
+        <option name="reportName" value="Painel-SSH-Aberto/qodana/2023-11-02" />
+      </LocalReportPersistedInfo>
+    </option>
+  </component>
+  <component name="QodanaIsSelectedPersistenceService">
+    <option name="selectedOrLoading" value="true" />
+  </component>
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription localRun="true" path="C:\Users\FAMILIA\AppData\Local\Temp\qodana_output1\qodana.sarif.json" reportGuid="9a3c3669-95f6-41c6-b9a1-092212c2ab3d" reportId="Painel-SSH-Aberto/qodana/2023-11-02" />
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7deb8b47-30c8-4f3a-9a04-284901e72178" name="Changes" comment="" />
+      <created>1698960066510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698960066510</updated>
+      <workItem from="1698960067526" duration="9000" />
+      <workItem from="1698960154137" duration="1394000" />
+      <workItem from="1698961595482" duration="20000" />
+      <workItem from="1698961667943" duration="2586000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

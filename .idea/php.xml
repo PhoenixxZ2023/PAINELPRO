@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/lib/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/lib/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/lib/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/lib/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/lib/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/lib/vendor/composer" />
+      <path value="$PROJECT_DIR$/lib/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/lib/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/lib/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/lib/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/lib/vendor/mercadopago/dx-php" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.4">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>
